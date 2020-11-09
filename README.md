@@ -1,6 +1,13 @@
 # Проект опубикован с помощью Github Page
 
-## Список готовых страниц
+## Список макетов
+
+### Макет TMS-JS
+
+[Домашнее задание №1](https://ivandelendik.github.io/TMS-JS/index.html)
+
+
+### Макет TMS-Shop
 
 [Стартовая страница](https://ivandelendik.github.io/TMS-page/index.html)
 
